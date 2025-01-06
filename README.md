@@ -27,6 +27,17 @@
 
 ## I have done this program in my DSA learning phase in which i implemented the concept of graph theory and dijkstra's algorithm to solve real world problem
 
+## Output
+Series of routes from warehouse (New York) to each city which is best optimum path: New York -> Chicago -> Los Angeles -> Houston -> Miami -> San Francisco  
+Time required to deliver product from warehouse (New York) to each city:  
+Time taken from Warehouse (New York) to New York = 0 minutes  
+Time taken from Warehouse (New York) to Los Angeles = 10 minutes  
+Time taken from Warehouse (New York) to Chicago = 5 minutes  
+Time taken from Warehouse (New York) to Miami = 15 minutes  
+Time taken from Warehouse (New York) to Houston = 13 minutes  
+Time taken from Warehouse (New York) to San Francisco = 19 minutes  
+
+
 
 
 
